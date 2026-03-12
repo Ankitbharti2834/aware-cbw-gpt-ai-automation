@@ -3,14 +3,14 @@
 **Organization:** Aware Custom Biometric Wearables  
 **Domain:** AI/ML | Process Automation | Workflow Orchestration  
 **Reported To:** CFO, COO, VPs, Directors  
-**Confidentiality:** 🔒 Enterprise Internal Project — Defense-Adjacent Organization  
+**Confidentiality:** 🔒 Enterprise Internal Project  
 > *Production workflows, OAuth credentials, Logic App configurations, and CRM integration endpoints are confidential. This repository reproduces the AI agent architecture and automation logic using mock data and environment-variable placeholders.*
 
 ---
 
 ## Business Problem
 
-Aware CBW's cross-functional teams spent significant time on manual, repetitive tasks: routing inbound procurement documents (including DoD contracts), manually updating Dynamics 365 CRM sales records, and distributing Power BI reports via email. These tasks were error-prone, delayed, and not scalable as the business grew across Defense, Industrial, and Healthcare segments.
+Aware CBW's cross-functional teams spent significant time on manual, repetitive tasks: routing inbound procurement documents, manually updating CRM sales records, and distributing Power BI reports via email. These tasks were error-prone, delayed, and not scalable as the business grew across Defense, Industrial, and Healthcare/Biometric segments.
 
 ## Solution
 
