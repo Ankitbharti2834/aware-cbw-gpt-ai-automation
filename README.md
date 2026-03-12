@@ -1,4 +1,4 @@
-# Project 3 — GPT-Powered Automation & AI Agent Workflow Development
+# Project - GPT-Powered Automation & AI Agent Workflow Development
 
 **Organization:** Aware Custom Biometric Wearables  
 **Domain:** AI/ML | Process Automation | Workflow Orchestration  
